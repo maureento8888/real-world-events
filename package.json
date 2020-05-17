@@ -1,0 +1,25 @@
+{
+  "name": "real-world-vue",
+  "version": "2.6.11",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "feather-icons": "^4.28.0",
+    "lodash": "^4.17.15",
+    "vue": "^2.6.11",
+    "vue-router": "^3.1.6",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.12.1",
+    "@vue/cli-plugin-eslint": "^3.12.1",
+    "@vue/cli-service": "^3.12.1",
+    "@vue/eslint-config-prettier": "^3.0.5",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
