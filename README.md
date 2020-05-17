@@ -24,7 +24,8 @@ For more detailed info on installation, see Vue.js [installation docs] (https://
 ### 2. Compile and hot-reload for development
 `$ npm run serve`
 
-### 3. Congrats! Your local development server will be running at http://localhost:8080/
+### 3. Congrats! 
+Your local development server will be running at http://localhost:8080/
 
 
 ## General project setup
@@ -46,3 +47,12 @@ npm run build
 ```
 npm run lint
 ```
+
+## License
+MIT
+
+## Contributors
+N/A
+
+## Inspiration:
+To learn Vue.js and support open-source development/projects
