@@ -10,7 +10,10 @@ This tutoral project covers topics such as the dynamic routing, api calls using 
 - axios
 - lodash
 
-For more info and documentation, visit https://vuejs.org
+Vue.js documentation, visit https://vuejs.org
+lodash documentation: https://lodash.com
+axios documentation: https://github.com/axios/axios
+
 
 ## Getting Started
 
