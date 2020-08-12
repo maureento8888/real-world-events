@@ -3,6 +3,8 @@ Vue Mastery's Real World Vue.js
 
 This tutoral project covers topics such as the dynamic routing, api calls using axios, component modularity, Single Page Application (SPA) in Vue.js, etc.
 
+- <strong>NOTE:</strong> This project was built using Vue.js 2! See the [vuejs/vue-next](https://github.com/vuejs/vue-next) for (beta) documentation into Vue 3 changes!
+
 ![Real World Events webpage populated with several events that displays location, time, and attendees](./project-photo.png)
 
 ### Built with:
