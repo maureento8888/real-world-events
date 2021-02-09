@@ -1,7 +1,7 @@
 # Real World Events project
 Vue Mastery's Real World Vue.js
 
-This tutoral project covers topics such as the dynamic routing, API calls using axios, component modularity, Single Page Application (SPA) in Vue.js, etc.
+This tutoral project covers topics such as dynamic routing, API calls using axios, component modularity, Single Page Application (SPA) in Vue.js, etc.
 
 - <strong>NOTE:</strong> This project was built using Vue.js 2! See the [Vue 3 docs](https://v3.vuejs.org/)
 
