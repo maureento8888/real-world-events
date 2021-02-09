@@ -1,9 +1,9 @@
 # Real World Events project
 Vue Mastery's Real World Vue.js
 
-This tutoral project covers topics such as the dynamic routing, api calls using axios, component modularity, Single Page Application (SPA) in Vue.js, etc.
+This tutoral project covers topics such as the dynamic routing, API calls using axios, component modularity, Single Page Application (SPA) in Vue.js, etc.
 
-- <strong>NOTE:</strong> This project was built using Vue.js 2! See the [vuejs/vue-next](https://github.com/vuejs/vue-next) for (beta) documentation into Vue 3 changes!
+- <strong>NOTE:</strong> This project was built using Vue.js 2! See the [Vue 3 docs](https://v3.vuejs.org/)
 
 ![Real World Events webpage populated with several events that displays location, time, and attendees](./project-photo.png)
 
@@ -13,7 +13,7 @@ This tutoral project covers topics such as the dynamic routing, api calls using 
 - lodash
 
 
-Vue.js documentation, visit https://vuejs.org
+Vue.js documentation, visit https://v3.vuejs.org/
 
 lodash documentation: https://lodash.com
 
@@ -22,7 +22,7 @@ axios documentation: https://github.com/axios/axios
 
 ## Getting Started
 
-For more detailed info on installation, see Vue.js [installation docs] (https://vuejs.org/v2/guide/installation.html)
+For more detailed info on installation, see Vue.js [installation docs] (https://v3.vuejs.org/guide/installation.html)
 
 ## Using Vue CLI (you should have npm installed):
 
