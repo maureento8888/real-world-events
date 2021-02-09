@@ -22,7 +22,7 @@ axios documentation: https://github.com/axios/axios
 
 ## Getting Started
 
-For more detailed info on installation, see Vue.js [installation docs] (https://v3.vuejs.org/guide/installation.html)
+For more detailed info on installation, see Vue.js [installation docs](https://v3.vuejs.org/guide/installation.html)
 
 ## Using Vue CLI (you should have npm installed):
 
